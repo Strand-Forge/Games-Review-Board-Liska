@@ -32,12 +32,16 @@ The application uses a PostgreSQL database with the following models:
 
 ## Installation
 
+```bash
+git clone https://github.com/Strand-Forge/Games-Review-Board-Liska.git
+cd game-review-board
+```
+
 ### Backend Setup
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
-cd game-review-board
+cd games-review-backend
 ```
 
 2. Install dependencies
