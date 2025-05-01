@@ -34,7 +34,7 @@ The application uses a PostgreSQL database with the following models:
 
 ```bash
 git clone https://github.com/Strand-Forge/Games-Review-Board-Liska.git
-cd game-review-board
+cd Games-Review-Board-Liska
 ```
 
 ### Backend Setup
